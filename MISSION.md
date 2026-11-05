@@ -42,8 +42,8 @@ Five years from now, the most valuable asset will not be code. It will be:
 The code will get rewritten. The intelligence is what compounds.
 
 ## Hard Rules
-1. No raw tokens or bracket-placeholders reach `main` — enforced by `wr-lint.mjs`
-2. Fix-class WRs MUST modify the buggy file — enforced by `fix-wr-gate.mjs`
+1. No raw tokens or bracket-placeholders reach `main` — enforced by `wr-lint.mjs` in `revvel-standards`
+2. Fix-class WRs MUST modify the buggy file — enforced by `fix-wr-gate.mjs` in `revvel-standards`
 3. No agent merges its own PR
 4. Evidence-Gated Autonomy: no research → no architecture → no code → no merge
 5. Every failure writes an `intel.md` entry before the PR closes

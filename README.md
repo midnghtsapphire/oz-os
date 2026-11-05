@@ -21,8 +21,7 @@ oz-os/
 ├── method-packs/           — reusable methodology templates
 ├── intel/                  — permanent intelligence records
 │   └── SCHEMA.md           — YAML frontmatter schema for all entries
-├── tool-intelligence/      — tool evaluations + reference system comparisons
-└── .github/workflows/      — CI gates (wr-lint, fix-wr-gate)
+└── tool-intelligence/      — tool evaluations + reference system comparisons
 ```
 
 ## Agent Pipeline
